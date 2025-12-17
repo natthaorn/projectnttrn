@@ -1,3 +1,5 @@
+# This README is lateset update - 2025.12 
+
 # Thailand Election 2026 Analysis
 
 ### 🎯 Project Overview
