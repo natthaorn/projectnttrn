@@ -1,4 +1,4 @@
-# 🇹🇭 Thailand Election 2026 Analysis
+# Thailand Election 2026 Analysis
 
 ### 🎯 Project Overview
 An exploratory data analysis (EDA) project analyzing potential outcomes of the upcoming Thailand General Election in 2026. This project utilizes Python, Pandas, and Plotly to visualize key political factors.
